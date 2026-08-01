@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "resources": "Resources",
+    "events": "Events",
+    "login": "Sign In",
+    "logout": "Log Out"
+  },
+  "hero": {
+    "title": "LOCAL CO-DEVELOPMENT PLATFORM",
+    "subtitle": "Research, Action & Community Impact",
+    "searchPlaceholder": "Search a project, expertise, area..."
+  },
+  "sections": {
+    "recentProjects": "Recent Projects",
+    "publications": "Publications & Studies",
+    "callsForParticipation": "Calls for Participation",
+    "ideasMixer": "Idea Mixer"
+  },
+  "card": {
+    "contributors": "Contributors",
+    "updated": "Last updated",
+    "daysAgo": "{{count}} day",
+    "daysAgo_other": "{{count}} days"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "legal": "Legal Notice",
+    "copyright": "Copyright © {{year}} - Legal Notice"
+  },
+  "auth": {
+    "login": {
+      "title": "Sign In",
+      "submit": "Sign in",
+      "noAccount": "Don't have an account yet?",
+      "registerLink": "Create an account",
+      "google": "Continue with Google"
+    },
+    "register": {
+      "title": "Create an account",
+      "submit": "Create my account",
+      "hasAccount": "Already have an account?",
+      "loginLink": "Sign in"
+    },
+    "fields": {
+      "email": "Email address",
+      "password": "Password",
+      "fullName": "Full name"
+    },
+    "errors": {
+      "invalidCredentials": "Incorrect email or password",
+      "emailTaken": "This email is already in use",
+      "generic": "Something went wrong, please try again"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong"
+  },
+  "stub": {
+    "comingSoon": "This page is under construction."
+  }
+}
